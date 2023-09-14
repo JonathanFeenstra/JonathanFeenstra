@@ -6,7 +6,7 @@
 
 **My [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) plugins**
 * [LOOT Warning Checker](https://www.nexusmods.com/site/mods/323)
-* [Auto-Activator](https://github.com/JonathanFeenstra/modorganizer-auto-activator)
+* [Auto-Activator](https://www.nexusmods.com/site/mods/648)
 * [Plugin Finder Notifier](https://github.com/Kezyma/ModOrganizer-Plugins/blob/main/src/pluginfinder/plugins/pluginfinder_notifier.py) (included in [Kezyma's Plugin Finder](https://www.nexusmods.com/skyrimspecialedition/mods/59869))
 
 **My [SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379) plugins**
