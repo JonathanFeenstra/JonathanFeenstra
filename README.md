@@ -4,19 +4,20 @@
 
 ## Projects
 
-**My [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) plugins**
-* [LOOT Warning Checker](https://www.nexusmods.com/site/mods/323)
-* [Auto-Activator](https://www.nexusmods.com/site/mods/648)
-* [Plugin Finder Notifier](https://github.com/Kezyma/ModOrganizer-Plugins/blob/main/src/pluginfinder/plugins/pluginfinder_notifier.py) (included in [Kezyma's Plugin Finder](https://www.nexusmods.com/skyrimspecialedition/mods/59869))
+**[Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) plugins**
 
-**My [SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379) plugins**
-* [Instantly Skip Dialogue NG](https://www.nexusmods.com/skyrimspecialedition/mods/89163)
-* [Unskippable Dialogue NG](https://www.nexusmods.com/skyrimspecialedition/mods/97793)
+|Name                |GitHub                                                                       |Nexus Mods                                     |
+|--------------------|-----------------------------------------------------------------------------|-----------------------------------------------|
+|LOOT Warning Checker|[Link](https://github.com/JonathanFeenstra/modorganizer-loot-warning-checker)|[Link](https://www.nexusmods.com/site/mods/323)|
+|Auto-Activator      |[Link](https://github.com/JonathanFeenstra/modorganizer-auto-activator)      |[Link](https://www.nexusmods.com/site/mods/648)|
 
-**My [Discord](https://discord.com) bots**
+**[SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379) plugins**
+
+|Name                      |GitHub                                                             |Nexus Mods                                                       |
+|--------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------|
+|Instantly Skip Dialogue NG|[Link](https://github.com/JonathanFeenstra/InstantlySkipDialogueNG)|[Link](https://www.nexusmods.com/skyrimspecialedition/mods/89163)|
+|Unskippable Dialogue NG   |[Link](https://github.com/JonathanFeenstra/UnskippableDialogueNG)  |[Link](https://www.nexusmods.com/skyrimspecialedition/mods/97793)|
+
+**[Discord](https://discord.com) bots**
 * [Quote Bot](https://github.com/Quote-Bot/QuoteBot)
 * [modlinkbot](https://github.com/JonathanFeenstra/discord-modlinkbot)
-
-**Popular repositories I contributed to**
-* [discord.py](https://github.com/Rapptz/discord.py)
-* [Nexus Mods App](https://github.com/Nexus-Mods/NexusMods.App)
