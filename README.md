@@ -20,9 +20,10 @@
 
 **[SMAPI](https://smapi.io/) mods**
 
-|Name                  |GitHub                                                    |Nexus Mods                                                |
-|----------------------|----------------------------------------------------------|----------------------------------------------------------|
-|Auto-Stack Bait & Ammo|[Link](https://github.com/JonathanFeenstra/Auto-StackBait)|[Link](https://www.nexusmods.com/stardewvalley/mods/23423)|
+|Name                               |GitHub                                                    |Nexus Mods                                                |
+|-----------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+|Auto-Stack Bait & Ammo             |[Link](https://github.com/JonathanFeenstra/Auto-StackBait)|[Link](https://www.nexusmods.com/stardewvalley/mods/23423)|
+|Smart Spin - Pre-fill Optimal Wager|[Link](https://github.com/JonathanFeenstra/SmartSpin)     |[Link](https://www.nexusmods.com/stardewvalley/mods/28042)|
 
 **[Discord](https://discord.com) bots**
 * [Quote Bot](https://github.com/Quote-Bot/QuoteBot)
