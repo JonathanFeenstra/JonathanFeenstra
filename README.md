@@ -13,10 +13,11 @@
 
 **[SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379) plugins**
 
-|Name                      |GitHub                                                             |Nexus Mods                                                       |
-|--------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------|
-|Instantly Skip Dialogue NG|[Link](https://github.com/JonathanFeenstra/InstantlySkipDialogueNG)|[Link](https://www.nexusmods.com/skyrimspecialedition/mods/89163)|
-|Unskippable Dialogue NG   |[Link](https://github.com/JonathanFeenstra/UnskippableDialogueNG)  |[Link](https://www.nexusmods.com/skyrimspecialedition/mods/97793)|
+|Name                      |GitHub                                                             |Nexus Mods                                                        |
+|--------------------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+|Instantly Skip Dialogue NG|[Link](https://github.com/JonathanFeenstra/InstantlySkipDialogueNG)|[Link](https://www.nexusmods.com/skyrimspecialedition/mods/89163) |
+|Unskippable Dialogue NG   |[Link](https://github.com/JonathanFeenstra/UnskippableDialogueNG)  |[Link](https://www.nexusmods.com/skyrimspecialedition/mods/97793) |
+|Predictable Persuasion    |[Link](https://github.com/JonathanFeenstra/PredictablePersuasion)  |[Link](https://www.nexusmods.com/skyrimspecialedition/mods/140140)|
 
 **[SMAPI](https://smapi.io/) mods**
 
