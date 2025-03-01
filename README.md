@@ -1,6 +1,10 @@
 # Jonathan Feenstra
 
-[![Stack Overflow profile](https://stackoverflow.com/users/flair/9504155.png)](https://stackoverflow.com/users/9504155/jonathan-feenstra)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://stackoverflow.com/users/flair/9504155.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/9504155.png?theme=dark" />
+  <img alt="Stack Overflow profile" src="https://stackoverflow.com/users/flair/9504155.png" />
+</picture>
 
 ## Projects
 
